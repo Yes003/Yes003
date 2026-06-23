@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi, I'm Saurabh Pawar, a Computer Science student passionate about AI, Full-Stack Development, and modern technologies. I enjoy building real-world projects, learning new skills, and contributing to innovative solutions.
 
-🔭 Working on AI & Full-Stack Projects
+🔭 Working on AI & Full-Stack Projects /n
 👯 Open to Open Source Collaboration
 🌱 Learning React, Node.js & Machine Learning
 💬 Ask me about JavaScript, Python & AI
