@@ -1,6 +1,11 @@
 # 💫 About Me:
-## <br>Hi, I'm **Saurabh Pawar**, a Computer Science student passionate about software development, Artificial Intelligence, and modern web technologies. I enjoy building real-world projects that solve practical problems and continuously exploring new technologies to enhance my skills. My interests include Full-Stack Development, Machine Learning, Cloud Computing, and Open Source contributions.<br><br>- 🔭 I’m currently working on **AI-powered and Full-Stack Web Projects**<br>- 👯 I’m looking to collaborate on **Open Source, AI, and Web Development Projects**<br>- 🤝 I’m looking for help with **Advanced AI, System Design, and Cloud Technologies**<br>- 🌱 I’m currently learning **React, Node.js, Machine Learning, and DevOps**<br>- 💬 Ask me about **JavaScript, React, Python, AI, and Web Development**<br>- ⚡ Fun fact: **I love turning ideas into real-world applications and learning something new every day!**
+## Hi, I'm Saurabh Pawar, a Computer Science student passionate about AI, Full-Stack Development, and modern technologies. I enjoy building real-world projects, learning new skills, and contributing to innovative solutions.
 
+🔭 Working on AI & Full-Stack Projects
+👯 Open to Open Source Collaboration
+🌱 Learning React, Node.js & Machine Learning
+💬 Ask me about JavaScript, Python & AI
+⚡ Fun fact: I love turning ideas into reality through code!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabh__pawar_1343) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhdpawar2007@gmail.com) 
